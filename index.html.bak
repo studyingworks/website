@@ -38,18 +38,14 @@
         </nav>
         <div class="container hero">
             <div class="row">
-<<<<<<< HEAD
-                <div class="col-12 col-lg-6 col-xl-5 offset-xl-1 text-start align-self-center">
-                    <h1><strong>Welcome to StudyingWorks</strong></h1>
-                    <p><strong>StudyingWorks is a website designed to help you ace your tests, completely free, forever. </strong><br><strong>(amc45 is dumb - gm8686)</strong></p><button class="btn btn-light btn-lg action-button" type="button"><strong>Get Started</strong></button>
-=======
                 <div class="col-12 col-lg-6 col-xl-5 offset-xl-1">
                     <h1>Welcome to StudyingWorks</h1>
-                    <p>StudyingWorks is a website designed to help you ace your tests, completely free, forever. <br>(amc45 is dumb - gm868686)</p><button class="btn btn-light btn-lg action-button" type="button">Get Started</button>
->>>>>>> 5c9f5ac303b96645cd51fd7661a79447a94b4635
+                    <p>StudyingWorks is a website designed to help you ace your tests, completely free, forever. <br>(amc45 is dumb - gm8686)</p><button class="btn btn-light btn-lg action-button" type="button">Get Started</button>
                 </div>
-                <div class="col-md-5 col-lg-6 col-xl-5 col-xxl-5 offset-lg-0 offset-xl-0 offset-xxl-0 d-none d-lg-block d-xxl-flex biglogo">
-                    <div class="text-center d-xl-flex justify-content-xl-center justify-content-xxl-center testtubes"><img class="d-xl-flex d-xxl-flex biglogo" src="assets/img/beaker.svg"></div>
+                <div class="col-md-5 col-lg-5 offset-lg-1 offset-xl-0 d-none d-lg-block biglogo">
+                    <div class="testtubes"><img class="biglogo" src="assets/img/beaker.svg">
+                        <div class="screen"></div>
+                    </div>
                 </div>
             </div>
         </div>
