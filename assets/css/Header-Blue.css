@@ -1,3 +1,7 @@
+.header-blue .biglogo {
+  text-align: center;
+}
+
 .header-blue {
   background: linear-gradient(135deg, #21897E, #69D1C5);
   background-color: #184e8e;
@@ -103,10 +107,11 @@
   color: #ebeff1;
   box-shadow: none;
   text-shadow: none;
-  padding: .3rem .8rem;
+  padding: 0.5rem 1.25rem;
   background: transparent;
   transition: background-color 0.25s;
   outline: none;
+  font-size: 1.6rem;
 }
 
 .header-blue .action-button:hover {
@@ -135,20 +140,20 @@
 }
 
 .header-blue .hero {
-  /*margin-top: 20px;*/
+  margin-top: 20px;
   text-align: center;
 }
 
 @media (min-width:768px) {
   .header-blue .hero {
-    /*margin-top: 60px;*/
-    text-align: left;
+    margin-top: 60px;
+    /*text-align: left;*/
   }
 }
 
 .header-blue .hero h1 {
   color: #fff;
-  font-size: 40px;
+  font-size: 3rem;
   margin-top: 0;
   margin-bottom: 15px;
   font-weight: 300;
@@ -157,7 +162,7 @@
 
 @media (min-width:992px) {
   .header-blue .hero h1 {
-    margin-top: 120px;
+    /*margin-top: 40px;*/
     margin-bottom: 24px;
     line-height: 1.2;
   }
@@ -165,53 +170,21 @@
 
 .header-blue .hero p {
   color: rgba(255,255,255,0.8);
-  font-size: 20px;
+  font-size: 1.4rem;
   margin-bottom: 30px;
   font-weight: 300;
 }
 
-.header-blue .biglogo {
-  text-align: center;
-}
-
 .header-blue div.testtubes {
   position: relative;
-  max-width: 300px;
-  margin: 20px;
+  /*max-width: 300px;*/
+  /*margin: 20px;*/
   display: inline-block;
   z-index: 1;
 }
 
 .header-blue .testtubes img.biglogo {
-  width: 120%;
   height: auto;
-}
-
-.header-blue .testtubes .screen {
-  /*position: absolute;*/
-  /*width: 94%;*/
-  /*height: 98%;*/
-  /*top: 1%;*/
-  /*left: 3%;*/
-  /*border: 1px solid #444;*/
-  /*border-radius: 20px;*/
-  /*background-color: #aaa;*/
-  /*overflow: hidden;*/
-  /*background: url(../../assets/img/screen-content-phone.jpg);*/
-  /*background-size: cover;*/
-  /*background-position: center;*/
-  /*z-index: -1;*/
-}
-
-.header-blue .testtubes .screen:before {
-  /*content: '';*/
-  /*background-color: #fff;*/
-  /*position: absolute;*/
-  /*width: 70%;*/
-  /*height: 140%;*/
-  /*top: -12%;*/
-  /*right: -60%;*/
-  /*transform: rotate(-19deg);*/
-  /*opacity: 0.2;*/
+  width: 80%;
 }
 
