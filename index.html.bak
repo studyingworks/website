@@ -40,7 +40,7 @@
             <div class="row">
                 <div class="col-12 col-lg-6 col-xl-5 offset-xl-1">
                     <h1>Welcome to StudyingWorks</h1>
-                    <p>StudyingWorks is a website designed to help you ace your tests, completely free, forever. <br>(amc45 is dumb - gm868686)</p><button class="btn btn-light btn-lg action-button" type="button">Get Started</button>
+                    <p>StudyingWorks is a website designed to help you ace your tests, completely free, forever. <br>(amc45 is dumb - gm8686)</p><button class="btn btn-light btn-lg action-button" type="button">Get Started</button>
                 </div>
                 <div class="col-md-5 col-lg-5 offset-lg-1 offset-xl-0 d-none d-lg-block biglogo">
                     <div class="testtubes"><img class="biglogo" src="assets/img/beaker.svg">
