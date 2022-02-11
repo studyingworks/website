@@ -1,0 +1,3760 @@
+----------
+
+Thu Feb 10 2022 20:06:32 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/css/Footer-Basic.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/css/Header-Blue.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/font-awesome.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/fontawesome-webfont.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in assets/img/phone.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in chemistry.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:06:33 GMT-0800 (Pacific Standard Time)
+
+fatal: pathspec 'error.log' did not match any files
+
+
+----------
+
+Thu Feb 10 2022 20:06:35 GMT-0800 (Pacific Standard Time)
+
+To https://github.com/studyingworks/website.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/studyingworks/website.git'
+
+
+----------
+
+Thu Feb 10 2022 20:06:35 GMT-0800 (Pacific Standard Time)
+
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+----------
+
+Thu Feb 10 2022 20:08:33 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'AppData/Local/Application Data/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:36 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'AppData/Local/History/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:36 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'AppData/Local/Microsoft/Windows/INetCache/Content.IE5/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:36 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'AppData/Local/Microsoft/Windows/Temporary Internet Files/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:37 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'AppData/Local/Temporary Internet Files/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:39 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Application Data/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:39 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Cookies/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:39 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Documents/My Music/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:39 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Documents/My Pictures/': Permission denied
+warning: could not open directory 'Documents/My Videos/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Local Settings/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'My Documents/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'NetHood/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'PrintHood/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Recent/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'SendTo/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Start Menu/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Templates/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:41 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .bash_history.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .dbus-keyrings/org_gtk_gdbus_general.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .gitconfig.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .lesshst.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.buildship_3.1.5.v20210113-0929/META-INF/eclipse.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.buildship_3.1.5.v20210113-0929/epl-v20.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.buildship_3.1.5.v20210113-0929/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.buildship_3.1.5.v20210113-0929/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.buildship_3.1.5.v20210113-0929/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.e4.rcp_4.20.0.v20210602-2209/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.e4.rcp_4.20.0.v20210602-2209/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.e4.rcp_4.20.0.v20210602-2209/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.e4.rcp_4.20.0.v20210602-2209/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.feature_1.5.702.v20210409-2301/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.feature_1.5.702.v20210409-2301/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.feature_1.5.702.v20210409-2301/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.feature_1.5.702.v20210409-2301/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.feature_1.5.702.v20210409-2301/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/asl-v20.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/asl-v20.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.eclemma.feature_3.1.4.202012082030/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.eclemma.feature_3.1.4.202012082030/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.eclemma.feature_3.1.4.202012082030/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.eclemma.feature_3.1.4.202012082030/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.eclemma.feature_3.1.4.202012082030/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.eclemma.feature_3.1.4.202012082030/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.egit_5.12.0.202106070339-r/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.egit_5.12.0.202106070339-r/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.egit_5.12.0.202106070339-r/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.egit_5.12.0.202106070339-r/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.common_2.22.0.v20210319-0732/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.common_2.22.0.v20210319-0732/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.common_2.22.0.v20210319-0732/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.common_2.22.0.v20210319-0732/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.ecore_2.24.0.v20210405-0628/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.ecore_2.24.0.v20210405-0628/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.ecore_2.24.0.v20210405-0628/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.emf.ecore_2.24.0.v20210405-0628/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.common.feature_4.20.0.20210612-1200/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.common.feature_4.20.0.20210612-1200/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.common.feature_4.20.0.20210612-1200/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.common.feature_4.20.0.20210612-1200/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.common.feature_4.20.0.20210612-1200/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.java.feature_4.20.0.20210612-1200/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.java.feature_4.20.0.20210612-1200/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.java.feature_4.20.0.20210612-1200/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.java.feature_4.20.0.20210612-1200/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.epp.package.java.feature_4.20.0.20210612-1200/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.core.feature_1.6.1000.v20210507-0825/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.core.feature_1.6.1000.v20210507-0825/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.core.feature_1.6.1000.v20210507-0825/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.core.feature_1.6.1000.v20210507-0825/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.discovery.feature_1.2.900.v20210418-1743/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.discovery.feature_1.2.900.v20210418-1743/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.discovery.feature_1.2.900.v20210418-1743/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.discovery.feature_1.2.900.v20210418-1743/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.extras.feature_1.4.1200.v20210507-0825/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.extras.feature_1.4.1200.v20210507-0825/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.extras.feature_1.4.1200.v20210507-0825/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.extras.feature_1.4.1200.v20210507-0825/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.rcp.feature_1.4.1200.v20210507-0825/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.rcp.feature_1.4.1200.v20210507-0825/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.rcp.feature_1.4.1200.v20210507-0825/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.rcp.feature_1.4.1200.v20210507-0825/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.user.ui_2.4.1200.v20210507-0825/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.user.ui_2.4.1200.v20210507-0825/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.user.ui_2.4.1200.v20210507-0825/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.equinox.p2.user.ui_2.4.1200.v20210507-0825/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.help_2.3.600.v20210611-1600/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.help_2.3.600.v20210611-1600/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.help_2.3.600.v20210611-1600/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.help_2.3.600.v20210611-1600/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jdt_3.18.800.v20210611-1600/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jdt_3.18.800.v20210611-1600/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jdt_3.18.800.v20210611-1600/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jdt_3.18.800.v20210611-1600/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.gpg.bc_5.12.0.202106070339-r/edl-v10.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.gpg.bc_5.12.0.202106070339-r/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.gpg.bc_5.12.0.202106070339-r/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.gpg.bc_5.12.0.202106070339-r/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.http.apache_5.12.0.202106070339-r/edl-v10.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.http.apache_5.12.0.202106070339-r/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.http.apache_5.12.0.202106070339-r/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.http.apache_5.12.0.202106070339-r/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.ssh.apache_5.12.0.202106070339-r/edl-v10.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.ssh.apache_5.12.0.202106070339-r/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.ssh.apache_5.12.0.202106070339-r/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit.ssh.apache_5.12.0.202106070339-r/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit_5.12.0.202106070339-r/edl-v10.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit_5.12.0.202106070339-r/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit_5.12.0.202106070339-r/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.jgit_5.12.0.202106070339-r/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.justj.openjdk.hotspot.jre.full_16.0.2.v20210721-1149/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.justj.openjdk.hotspot.jre.full_16.0.2.v20210721-1149/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.justj.openjdk.hotspot.jre.full_16.0.2.v20210721-1149/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.justj.openjdk.hotspot.jre.full_16.0.2.v20210721-1149/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.justj.openjdk.hotspot.jre.full_16.0.2.v20210721-1149/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.feature_1.18.0.20210603-1206/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.feature_1.18.0.20210603-1206/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.feature_1.18.0.20210603-1206/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.feature_1.18.0.20210603-1206/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.feature_1.18.0.20210603-1206/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.lemminx.feature_1.17.2.20210411-0929/epl-2.0.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.lemminx.feature_1.17.2.20210411-0929/feature.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.lemminx.feature_1.17.2.20210411-0929/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.lemminx.feature_1.17.2.20210411-0929/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.logback.feature_1.17.1.20210603-1006/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.logback.feature_1.17.1.20210603-1006/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.logback.feature_1.17.1.20210603-1006/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.logback.feature_1.17.1.20210603-1006/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.sse.ui.feature_1.18.0.20210603-1006/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.sse.ui.feature_1.18.0.20210603-1006/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.sse.ui.feature_1.18.0.20210603-1006/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.m2e.sse.ui.feature_1.18.0.20210603-1006/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.p2_1.20.0.v20210808-0939/epl-v20.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.p2_1.20.0.v20210808-0939/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.p2_1.20.0.v20210808-0939/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.p2_1.20.0.v20210808-0939/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup.core_1.21.0.v20210817-0806/epl-v20.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup.core_1.21.0.v20210817-0806/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup.core_1.21.0.v20210817-0806/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup.core_1.21.0.v20210817-0806/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup_1.22.0.v20210817-0806/epl-v20.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup_1.22.0.v20210817-0806/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup_1.22.0.v20210817-0806/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.oomph.setup_1.22.0.v20210817-0806/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.platform_4.20.0.v20210611-1600/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.platform_4.20.0.v20210611-1600/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.platform_4.20.0.v20210611-1600/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.platform_4.20.0.v20210611-1600/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.rcp_4.20.0.v20210611-1600/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.rcp_4.20.0.v20210611-1600/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.rcp_4.20.0.v20210611-1600/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.rcp_4.20.0.v20210611-1600/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tips.feature_0.2.1400.v20210317-2216/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tips.feature_0.2.1400.v20210317-2216/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tips.feature_0.2.1400.v20210317-2216/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tips.feature_0.2.1400.v20210317-2216/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/about.ini.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/about.mappings.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/about.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.ssh.feature_10.3.0.202104042017/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.ssh.feature_10.3.0.202104042017/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.ssh.feature_10.3.0.202104042017/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.ssh.feature_10.3.0.202104042017/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/about.ini.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/about.mappings.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/about.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.control.feature_10.3.0.202105240049/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.control.feature_10.3.0.202105240049/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.control.feature_10.3.0.202105240049/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.control.feature_10.3.0.202105240049/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.feature_10.3.0.202104042017/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.feature_10.3.0.202104042017/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.feature_10.3.0.202104042017/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.feature_10.3.0.202104042017/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.feature_10.3.0.202104042017/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.view.feature_10.3.0.202105240430/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.view.feature_10.3.0.202105240430/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.view.feature_10.3.0.202105240430/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.tm.terminal.view.feature_10.3.0.202105240430/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.userstorage_1.2.0.v20210517-0327/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.userstorage_1.2.0.v20210517-0327/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.userstorage_1.2.0.v20210517-0327/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.userstorage_1.2.0.v20210517-0327/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.wildwebdeveloper.xml.feature_0.10.4.202102250843/epl-2.0.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.wildwebdeveloper.xml.feature_0.10.4.202102250843/feature.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.wildwebdeveloper.xml.feature_0.10.4.202102250843/feature.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:42 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/features/org.eclipse.wildwebdeveloper.xml.feature_0.10.4.202102250843/license.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/META-INF/maven/org.eclipse.orbit.bundles/org.apache.ant/pom.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/META-INF/maven/org.eclipse.orbit.bundles/org.apache.ant/pom.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/OSGI-INF/l10n/bundle.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/about_files/DOM-LICENSE.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/about_files/LICENSE.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/about_files/NOTICE.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/about_files/SAX-LICENSE.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/about_files/THE_APACHE_SOFTWARE_LICENSE__VERSION_2.0.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/bin/ant.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/bin/antRun.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/bin/antRun.pl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/bin/complete-ant-cmd.pl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/bin/runant.pl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/bin/runant.py.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/changelog.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/checkstyle/checkstyle-frames-sortby-check.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/checkstyle/checkstyle-frames.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/checkstyle/checkstyle-text.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/checkstyle/checkstyle-xdoc.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/coverage-frames.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/jdepend-frames.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/jdepend.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/junit-frames-xalan1.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/junit-frames.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/junit-noframes.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/log.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/maudit-frames.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/mmetrics-frames.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.apache.ant_1.10.10.v20210426-1926/etc/tagdiff.xsl.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.cdt.core.win32.x86_64_6.0.200.202106080120/META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.core.win32.x86_64/pom.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.cdt.core.win32.x86_64_6.0.200.202106080120/META-INF/maven/org.eclipse.cdt/org.eclipse.cdt.core.win32.x86_64/pom.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.cdt.core.win32.x86_64_6.0.200.202106080120/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.cdt.core.win32.x86_64_6.0.200.202106080120/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.common_4.20.0.20210612-1200/META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.common/pom.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.common_4.20.0.20210612-1200/META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.common/pom.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.common_4.20.0.20210612-1200/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.common_4.20.0.20210612-1200/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.common_4.20.0.20210612-1200/plugin.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.java/pom.properties.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.java/pom.xml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/about.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/about.ini.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/about.mappings.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/about.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/intro-eclipse.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/org.eclipse.ui.intro.universal.solstice/intro-eclipse.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/plugin.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.epp.package.java_4.20.0.20210612-1200/plugin_customization.ini.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.200.v20210429-1609/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:43 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.200.v20210429-1609/launcher.win32.win32.x86_64.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.jdt.debug_3.17.200.v20210513-1223/.api_description.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.jdt.debug_3.17.200.v20210513-1223/.options.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.jdt.debug_3.17.200.v20210513-1223/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.jdt.debug_3.17.200.v20210513-1223/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.jdt.debug_3.17.200.v20210513-1223/plugin.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/META-INF/eclipse.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/META-INF/maven/org.eclipse.justj/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64/pom.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/META-INF/maven/org.eclipse.justj/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64/pom.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/META-INF/p2.inf.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/about.mappings.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/fragment.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/logging.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/management/jmxremote.access.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/management/jmxremote.password.template.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/management/management.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/net.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/java.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/policy/README.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/policy/limited/default_US_export.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/policy/limited/default_local.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/policy/limited/exempt_local.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/policy/unlimited/default_US_export.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/security/policy/unlimited/default_local.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/conf/sound.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/classfile_constants.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/jawt.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/jdwpTransport.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/jni.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/jvmticmlr.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/win32/bridge/AccessBridgeCallbacks.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/win32/bridge/AccessBridgeCalls.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/win32/bridge/AccessBridgePackages.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/win32/jawt_md.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/include/win32/jni_md.h.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/ADDITIONAL_LICENSE_INFO.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/ASSEMBLY_EXCEPTION.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/LICENSE.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/aes.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/asm.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/c-libutl.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/cldr.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/icu.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/public_suffix.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/unicode.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.base/zlib.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/colorimaging.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/freetype.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/giflib.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/harfbuzz.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/jpeg.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/lcms.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/libpng.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.desktop/mesa3d.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.xml.crypto/santuario.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.xml/bcel.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.xml/dom.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.xml/jcup.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.xml/xalan.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/java.xml/xerces.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.crypto.cryptoki/pkcs11wrapper.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.dynalink/dynalink.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.internal.le/jline.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.internal.opt/jopt-simple.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.javadoc/jquery.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.javadoc/jqueryUI.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/legal/jdk.localedata/thaidict.md.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/fontconfig.properties.src.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/jfr/default.jfc.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/jfr/profile.jfc.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:44 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/jvm.cfg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/psfont.properties.ja.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/psfontj2d.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_16.0.2.v20210721-1149/jre/lib/security/default.policy.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/OSGI-INF/l10n/bundle.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/about_files/LICENSE-1.1.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/about_files/LICENSE-2.0.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/about_files/MPL-1.1.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/about_files/dom4j-LICENSE.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.archetype.common_1.18.0.20210603-1206/about_files/jdom-LICENSE.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.indexer_1.18.0.20210603-1206/META-INF/sisu/javax.inject.Named.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.indexer_1.18.0.20210603-1206/OSGI-INF/l10n/bundle.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.indexer_1.18.0.20210603-1206/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.indexer_1.18.0.20210603-1206/about_files/LICENSE-2.0.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/OSGI-INF/l10n/bundle.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/about_files/slf4j-simple-LICENSE.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/simplelogger.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.0.20210603-1206/OSGI-INF/l10n/bundle.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.0.20210603-1206/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.maven.runtime_1.18.0.20210603-1206/about_files/LICENSE-2.0.txt.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.sourcelookup_1.17.2.20210603-1006/META-INF/maven/org.eclipse.m2e/org.eclipse.m2e.sourcelookup/pom.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.sourcelookup_1.17.2.20210603-1006/META-INF/maven/org.eclipse.m2e/org.eclipse.m2e.sourcelookup/pom.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.sourcelookup_1.17.2.20210603-1006/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:45 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.m2e.sourcelookup_1.17.2.20210603-1006/plugin.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/LegacyIDE.e4xmi.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/about.ini.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/about.mappings.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/about.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/book.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/disabled_book.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/helpData.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/arrow.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/arrow_light.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/ov_wbbasics48.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/wn_eclcommunity48.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/wn_eclplatform48.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/wn_migrate48.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/images/topiclabel/wn_updates48.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro-eclipse.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/css/migrate.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/css/migrate.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/css/overview.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/css/overview.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/css/whatsnew.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/css/whatsnew.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/migrateExtensionContent.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/overviewExtensionContent.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/whatsnewExtensionContent1.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/whatsnewExtensionContent2.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/intro/whatsnewExtensionContent3.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/introData.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/macosx_narrow_book.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/narrow_book.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/org.eclipse.ui.intro.universal.solstice/intro-eclipse.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/plugin.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/plugin_customization.ini.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.platform_4.20.0.v20210611-1600/plugin_customization.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/.api_description.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/about.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/common/e4_globalstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/dark/e4-dark-drag-styling.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/dark/e4-dark_globalstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/dark/e4-dark_ide_colorextensions.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/dark/e4-dark_partstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/dark/e4-dark_preferencestyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/dark/e4-dark_tabstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4-dark_linux.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4-dark_mac.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4-dark_mac1013.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4-dark_win.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4_basestyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4_classic.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4_default_gtk.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4_default_mac.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4_default_win.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/e4_system.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/high-contrast.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/light/e4-light-drag-styling.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/light/e4-light_globalstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/light/e4-light_ide_colorextensions.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/light/e4-light_partstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/light/e4-light_tabstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/system/e4-light-drag-styling.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/system/e4-light_globalstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/system/e4-light_ide_colorextensions.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/system/e4-light_partstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/css/system/e4-light_tabstyle.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/plugin.properties.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .p2/pool/plugins/org.eclipse.ui.themes_1.2.1400.v20210315-1604/plugin.xml.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .ssh/id_ed25519.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .ssh/id_ed25519.pub.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .ssh/known_hosts.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .ssh/known_hosts.old.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:46 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in .viminfo.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/@badlionnative-desktop-updater/pending/update-info.json.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/AMD/CN/20211020-094349.CSV.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/AMD/CN/20211020-094349.FrameTime.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/AMD/CN/cmdb.blb.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/AMD/CN/gallery.blb.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/AMD/CN/gmdb.blb.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+warning: LF will be replaced by CRLF in AppData/Local/AMD/CN/twserverlist.json.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+error: open("AppData/Local/AMD/DX9Cache/b6e8e7a2.bin"): Permission denied
+error: unable to index file 'AppData/Local/AMD/DX9Cache/b6e8e7a2.bin'
+fatal: adding files failed
+
+
+----------
+
+Thu Feb 10 2022 20:08:48 GMT-0800 (Pacific Standard Time)
+
+fatal: pathspec 'error.log' did not match any files
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Application Data/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Cookies/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Local Settings/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'My Documents/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'NetHood/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'PrintHood/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Recent/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'SendTo/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Start Menu/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+warning: could not open directory 'Templates/': Permission denied
+
+
+----------
+
+Thu Feb 10 2022 20:08:49 GMT-0800 (Pacific Standard Time)
+
+fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push origin HEAD:main
+
+To push to the branch of the same name on the remote, use
+
+    git push origin HEAD
+
+To choose either option permanently, see push.default in 'git help config'.
+
+
