@@ -1,0 +1,51 @@
+h3 {
+    margin:1px;
+    font-family:Arial;
+    font-size:16px;
+}
+span {
+    margin:1px;
+    font-family:Arial;
+    font-size:13px;
+}
+div {
+    padding:1px;
+    background-color:rgb(219, 219, 219);
+    font-family:Arial;
+    font-size:10px;
+}
+.elemItem {
+    background-color:rgb(170, 245, 186);
+    box-shadow:1px 1px 1px;
+    transition:all 0.1s;
+}
+.elemItem:hover {
+    background-color:rgb(134, 224, 187);
+    box-shadow:1px 1px 4px;
+    cursor:pointer;
+    transform:scale(1.5, 1.5);
+    z-index:2;
+}
+.elemItem:active {
+    background-color:rgb(101, 196, 175);
+    box-shadow:1px 1px 4px;
+    cursor:pointer;
+    transform:scale(1.4, 1.4);
+}
+a {
+    color:black;
+    text-decoration:underline;
+}
+a:hover {
+    color:blue;
+    text-decoration:underline;
+    cursor:pointer;
+}
+a:visited {
+    color:black;
+    text-decoration:underline;
+}
+a:active {
+    color:rgb(0, 0, 161);
+    text-decoration:underline;
+}
