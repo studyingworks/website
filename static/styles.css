@@ -114,7 +114,7 @@ hr {
     font-size: 12px;
     font-family: 'Segoe UI';
     color: rgb(31, 31, 31);
-    width:800px;
+    width:90%; /* 800px */
     box-shadow: #1d495e 0px 0px 10px;
     /* margin-left:auto;
     margin-right:auto; */
