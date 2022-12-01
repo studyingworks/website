@@ -30,8 +30,26 @@ const coursesSections = {
                 "urliframeID": "iik25wqIuFo"
             },
             {
-                "name": "Mass Spectroscopy of Elements",
+                "name": "Combustion Analysis",
+                "url": "https://www.youtube.com/watch?v=8OrvHqMF220",
+                "urliframeID": "8OrvHqMF220"
             },
+            {
+                "name": "Balancing Equations using the RIP Chart",
+                "url": "https://www.youtube.com/watch?v=CTLxyZQVwVY",
+                "urliframeID": "CTLxyZQVwVY"
+            },
+            {
+                "name": "Enthalpy and Equilibrium",
+                "url": "https://www.youtube.com/watch?v=gZjYA6iDRyk",
+                "urliframeID": "gZjYA6iDRyk"
+            },
+            {
+                "name": "What is pH? Solving for pH, pOH, and H+ Concentrations",
+                "url": "https://www.youtube.com/watch?v=HQuBH4IHVfA",
+                "urliframeID": "HQuBH4IHVfA"
+
+            }
         ],
         [ // Unit 2
             {
