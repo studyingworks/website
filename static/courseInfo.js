@@ -20,16 +20,6 @@ const coursesSections = {
                 ]
             },
             {
-                "name": "Mass Spectroscopy of Elements",
-                "url": "https://www.youtube.com/watch?v=iRGfiIhM5NU",
-                "urliframeID": "iRGfiIhM5NU"
-            },
-            {
-                "name": "Elemental Composition of Pure Substances",
-                "url": "https://www.youtube.com/watch?v=iik25wqIuFo",
-                "urliframeID": "iik25wqIuFo"
-            },
-            {
                 "name": "Combustion Analysis",
                 "url": "https://www.youtube.com/watch?v=8OrvHqMF220",
                 "urliframeID": "8OrvHqMF220"
