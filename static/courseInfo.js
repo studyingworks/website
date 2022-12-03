@@ -39,7 +39,6 @@ class courses {
                 "name": "What is pH? Solving for pH, pOH, and H+ Concentrations",
                 "url": "https://www.youtube.com/watch?v=HQuBH4IHVfA",
                 "urliframeID": "HQuBH4IHVfA"
-
             }
         ]
     ],

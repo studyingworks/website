@@ -32,7 +32,7 @@ for(let i = 0; i < courses.names.length; i++) {
     // Add links
     for(let j = 0; j < courses.units[i]; j++) {
         // Link
-        var content = (j+1) + "  ";
+        var content = "Content"; // (make only one click necessary?) (toadd) //(j+1) + "  ";
         let thisunitlk = document.createElement('a');
         let thisj = j;
         let thiscoursename = courses.names[i];
@@ -77,11 +77,10 @@ for(let i = 0; i < courses.names.length; i++) {
                         thissectionlk.innerHTML = ''
                         +'Lesson '+(t+1)+': '+thesesections[t].name+'<br>';
                     }
-                    
                     divtoload2.append(thissectionlk);
                     // Create iframe for video at bottom of page?
-                    if(thesesections[t].urliframeID != undefined) {
-                        iframeID = thesesections[t].urliframeID;
+                    if(thesesections[t].url != undefined) {
+                        iframeID = thesesections[t].url.split('?v=')[1]; // iframe ID is end of url; key 'urliframeID' is deprecated
                         var divtoload3 = document.getElementById('pg-'+thisunitlk.dataset.pgtoload+'-vids');
                         let thisiframe = document.createElement('iframe');
                         thisiframe.width = '300';
@@ -94,7 +93,8 @@ for(let i = 0; i < courses.names.length; i++) {
                         divtoload3.append(thisiframe);
                     }
                 } catch(err) {
-                    // Div does not exist
+                    // Error populating
+                    console.log('ERR on populating page: '+thiscoursename+'.'+thisj+'.'+t);
                 }
             }
         } catch(err) {
