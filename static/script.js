@@ -6,8 +6,7 @@ var existingPages = ["home"];
 
 /*
 TO DO:
-- Add videos
-- Finish adding courses, units, and sections to the coursesSections array
+- remove "content" dropdown and simply allow hover/click on top bar button
 - practice problems? (randomly select based on those in courseInfo.js)
 */
 

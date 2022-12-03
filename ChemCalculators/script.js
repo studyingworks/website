@@ -19,7 +19,11 @@ setAppearanceToThisi(0);
 // Fill out ptable based on data
 for(let i = 0; i < ptabledata.length; i++) {
     var tospawn = document.createElement('div');
-    tospawn.style = 'margin:1px; height:23px; width:31px; display:inline-block;'
+    if(ptabledata[i] > 0) {
+        tospawn.style = 'margin:1px; height:23px; width:31px; display:inline-block;';
+    } else {
+        tospawn.style = 'margin:1px; height:23px; width:31px; display:inline-block; box-shadow: 0px 0px 0px;';
+    }
     // Exception blocks
     if(ptabledata[i] == -3) {
         var tobreak = document.createElement('br');
