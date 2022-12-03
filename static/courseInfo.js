@@ -1,10 +1,11 @@
 // Course information
-const courses = ["ap-chem", "ap-calc", "ap-lang", "apush", "ap-physics"];
-const coursesUnits = [9, 9, 9, 9, 9];
-const coursesSections = {
+class courses {
+    static names = ["ap-chem", "ap-calc", "ap-lang", "apush", "ap-physics"];
+    static units = [9, 9, 9, 9, 9];
+    static sections = {
     "ap-chem": [ // Course name
         [ // Unit number 1
-            { // Section 1
+            /*{ // Section 1
                 "name": "Moles and Molar Mass", // Section name
                 "practiceProblems": [ // Practice problems array
                     {
@@ -18,7 +19,7 @@ const coursesSections = {
                         "a_correct": 1
                     }
                 ]
-            },
+            },*/
             {
                 "name": "Combustion Analysis",
                 "url": "https://www.youtube.com/watch?v=8OrvHqMF220",
@@ -40,32 +41,32 @@ const coursesSections = {
                 "urliframeID": "HQuBH4IHVfA"
 
             }
-        ],
-        [ // Unit 2
+        ]
+    ],
+    "ap-calc": [
+        [
             {
-                "name": "Types of Chemical Bonds",
+                "name": "Combustion Analysis",
+                "url": "https://www.youtube.com/watch?v=8OrvHqMF220",
+                "urliframeID": "8OrvHqMF220"
             },
             {
-                "name": "Intramolecular Force and Potential Energy",
+                "name": "Balancing Equations using the RIP Chart",
+                "url": "https://www.youtube.com/watch?v=CTLxyZQVwVY",
+                "urliframeID": "CTLxyZQVwVY"
             },
             {
-                "name": "Structure of Ionic Solids",
+                "name": "Enthalpy and Equilibrium",
+                "url": "https://www.youtube.com/watch?v=gZjYA6iDRyk",
+                "urliframeID": "gZjYA6iDRyk"
             },
             {
-                "name": "Structure of Metals and Alloys",
-            },
-            {
-                "name": "Lewis Diagrams",
-            },
-            {
-                "name": "Resonance and Formal Charge",
-            },
-            {
-                "name": "Periodic Trends",
-            },
-            {
-                "name": "VSEPR and Bond Hybridization",
+                "name": "What is pH? Solving for pH, pOH, and H+ Concentrations",
+                "url": "https://www.youtube.com/watch?v=HQuBH4IHVfA",
+                "urliframeID": "HQuBH4IHVfA"
+
             }
         ]
-    ]
+    ],
 };
+}

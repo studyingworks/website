@@ -1,5 +1,5 @@
 // Script
-var version = "0.0.3";
+var version = "0.0.4";
 console.log('STUDYING WORKS: v'+version);
 
 var existingPages = ["home"];
@@ -26,19 +26,19 @@ function hideAllPages() {
 }
 
 // Add links / populate page divs
-for(let i = 0; i < courses.length; i++) {
+for(let i = 0; i < courses.names.length; i++) {
     // Get ID
-    var thislk = document.getElementById("lk-"+courses[i]);
+    var thislk = document.getElementById("lk-"+courses.names[i]);
     // Add links
-    for(let j = 0; j < coursesUnits[i]; j++) {
+    for(let j = 0; j < courses.units[i]; j++) {
         // Link
         var content = (j+1) + "  ";
         let thisunitlk = document.createElement('a');
         let thisj = j;
-        let thiscoursename = courses[i];
+        let thiscoursename = courses.names[i];
         let pgtoload = thiscoursename+"-"+(j+1);
         existingPages.push(pgtoload);
-        thisunitlk.id = "lk-"+courses[i]+"-"+(j+1);
+        thisunitlk.id = "lk-"+courses.names[i]+"-"+(j+1);
         thisunitlk.innerText = content;
         thisunitlk.dataset.pgtoload = pgtoload;
         thislk.append(thisunitlk);
@@ -57,7 +57,7 @@ for(let i = 0; i < courses.length; i++) {
         }
         // Populate page divs
         try {
-            var thesesections = coursesSections[thiscoursename][thisj];
+            var thesesections = courses.sections[thiscoursename][thisj];
             for(let t = 0; t < Object.keys(thesesections).length; t++) {
                 // Get link divider
                 try {
@@ -71,11 +71,11 @@ for(let i = 0; i < courses.length; i++) {
                         thissectionlk.innerHTML = ''
                         +'<a href="'+vidurl+'" class="link">'
                         +'<img src="static/images/icon-yt.svg" width="12px" height="12px">'
-                        +'Section 1.'+(t+1)+'</a>: '+thesesections[t].name+'<br>';
+                        +'Lesson '+(t+1)+': '+thesesections[t].name+'</a><br>'; // +'Section 1.'+(t+1)+': '+thesesections[t].name+'</a><br>';
                     }
                     else {
                         thissectionlk.innerHTML = ''
-                        +'Section 1.'+(t+1)+': '+thesesections[t].name+'<br>';
+                        +'Lesson '+(t+1)+': '+thesesections[t].name+'<br>';
                     }
                     
                     divtoload2.append(thissectionlk);
