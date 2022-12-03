@@ -146,6 +146,14 @@ class courses {
                 url: "https://www.youtube.com/watch?v=GsYeFpjyDak"
             }
         ]
+    ],
+    "ap-physics": [
+        [
+            {
+                name: "Designing a Controlled Experiment",
+                url: "https://www.youtube.com/watch?v=y0LB47mcOM0"
+            }
+        ]
     ]
 };
 }
