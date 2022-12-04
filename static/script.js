@@ -8,6 +8,7 @@ var existingPages = ["home"];
 TO DO:
 - link back to home on the ptable page
 - practice problems? (randomly select based on those in courseInfo.js)
+- align videos
 */
 
 // Functions
