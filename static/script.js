@@ -7,6 +7,8 @@ var existingPages = ["home"];
 /*
 TO DO:
 - remove "content" dropdown and simply allow hover/click on top bar button
+- add banner at the top
+- link back to home on the ptable page
 - practice problems? (randomly select based on those in courseInfo.js)
 */
 

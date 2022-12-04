@@ -100,6 +100,19 @@ hr {
     position:sticky;
     display:block;
 }
+.headerimg {
+    background-color: #46aea3;
+    color: white;
+    margin: 0px;
+    padding: 12px; /* 2px */
+    box-shadow: black 0px -8px 15px;
+    position:sticky;
+    display:block;
+    background-image: url("/static/images/StudyingWorks_Banner_v2_dark.png");
+    background-repeat: repeat, repeat;
+    background-size: 800px;
+    background-position: 0px, 100px;
+}
 .footer {
     background-color: #46aea3;
     color: white;
