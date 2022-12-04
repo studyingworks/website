@@ -66,8 +66,19 @@ hr {
     display:inline;
 }
 .topLink:hover {
-    box-shadow:#2d7d82 0px 0px 5px;
+    /*box-shadow:#2d7d82 0px 0px 5px;*/
     display:inline;
+    background-color: black;
+    color: #46aea3;
+    cursor:pointer; /* toadd */
+}
+.topLink:active {
+    text-decoration:none;
+    color: #2d7d82;
+}
+.topLink:disabled {
+    color:#9edad4;
+    background-color:#2d7d82;
 }
 /* HOVER/DROPDOWN section */
 .topLink:hover .dropdown-content {
@@ -75,23 +86,16 @@ hr {
     display:inline;
     position:absolute;
     transform: translate(-65px, 20px);
-    width:150px;
+    width:100px; /* 150 */
 }
 
 .dropdown-content {
     box-shadow:#2d7d82 0px 0px 5px;
     display:none;
 }
-.topLink:active {
-    text-decoration:none;
-}
-.topLink:disabled {
-    color:#9edad4;
-    background-color:#2d7d82;
-}
 
 /* Misc divs */
-.header {
+.header { /* header old (no image; blue) */
     background-color: #46aea3;
     color: white;
     margin: 0px;
@@ -100,7 +104,7 @@ hr {
     position:sticky;
     display:block;
 }
-.headerimg {
+.headerimg { /* header new */
     background-color: #46aea3;
     color: white;
     margin: 0px;
@@ -108,7 +112,7 @@ hr {
     box-shadow: black 0px -8px 15px;
     position:sticky;
     display:block;
-    background-image: url("/static/images/StudyingWorks_Banner_v2_dark.png");
+    background-image: url("https://studying.works/static/images/StudyingWorks_Banner_v2_dark.png");
     background-repeat: repeat, repeat;
     background-size: 800px;
     background-position: 0px, 100px;
@@ -127,7 +131,7 @@ hr {
     font-size: 12px;
     font-family: 'Segoe UI';
     color: rgb(31, 31, 31);
-    width:95%; /* 800px */
+    width:97%; /* 800px */
     box-shadow: #1d495e 0px 0px 10px;
     /* margin-left:auto;
     margin-right:auto; */

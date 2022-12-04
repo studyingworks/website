@@ -6,8 +6,6 @@ var existingPages = ["home"];
 
 /*
 TO DO:
-- remove "content" dropdown and simply allow hover/click on top bar button
-- add banner at the top
 - link back to home on the ptable page
 - practice problems? (randomly select based on those in courseInfo.js)
 */
@@ -30,33 +28,52 @@ function hideAllPages() {
 for(let i = 0; i < courses.names.length; i++) {
     // Get ID
     var thislk = document.getElementById("lk-"+courses.names[i]);
+    var thislkt = document.getElementById("lkt-"+courses.names[i]);
     // Add links
-    for(let j = 0; j < courses.units[i]; j++) {
+    var numUnitsInCourse = courses.units[i];
+    for(let j = 0; j < numUnitsInCourse; j++) {
         // Link
         var content = "Content"; // (make only one click necessary?) (toadd) //(j+1) + "  ";
-        let thisunitlk = document.createElement('a');
         let thisj = j;
         let thiscoursename = courses.names[i];
         let pgtoload = thiscoursename+"-"+(j+1);
         existingPages.push(pgtoload);
+        let thisunitlk = document.createElement('a');
         thisunitlk.id = "lk-"+courses.names[i]+"-"+(j+1);
         thisunitlk.innerText = content;
         thisunitlk.dataset.pgtoload = pgtoload;
-        thislk.append(thisunitlk);
-        thisunitlk.onclick = function() {
-            try {
-                // Hide existing pages
-                hideAllPages();
-                // Show this page
-                var divtoload = document.getElementById('pg-'+thisunitlk.dataset.pgtoload);
-                divtoload.style.display = 'block';
-                console.log('Page loaded: pg-'+thisunitlk.dataset.pgtoload);
+        if(numUnitsInCourse > 1) {
+            thislk.append(thisunitlk);
+            thisunitlk.onclick = function() {
+                try {
+                    // Hide existing pages
+                    hideAllPages();
+                    // Show this page
+                    var divtoload = document.getElementById('pg-'+thisunitlk.dataset.pgtoload);
+                    divtoload.style.display = 'block';
+                    console.log('Page loaded: pg-'+thisunitlk.dataset.pgtoload);
+                }
+                catch(err) {
+                    console.log('ERR on loading page: pg-'+thisunitlk.dataset.pgtoload);
+                }
             }
-            catch(err) {
-                console.log('ERR on loading page: pg-'+thisunitlk.dataset.pgtoload);
+        } else {
+            thislkt.dataset.pgtoload = pgtoload;
+            thislkt.onclick = function() {
+                try {
+                    // Hide existing pages
+                    hideAllPages();
+                    // Show this page
+                    var divtoload = document.getElementById('pg-'+pgtoload); // thislk.dataset.pgtoload
+                    divtoload.style.display = 'block';
+                    console.log('Page loaded: pg-'+pgtoload);
+                }
+                catch(err) {
+                    console.log('ERR on loading page: pg-'+pgtoload);
+                }
             }
         }
-        // Populate page divs
+        // Populate page div
         try {
             var thesesections = courses.sections[thiscoursename][thisj];
             for(let t = 0; t < Object.keys(thesesections).length; t++) {
@@ -95,7 +112,7 @@ for(let i = 0; i < courses.names.length; i++) {
                     }
                 } catch(err) {
                     // Error populating
-                    console.log('ERR on populating page: '+thiscoursename+'.'+thisj+'.'+t);
+                    console.log('ERR on populating page: '+thiscoursename+'.'+thisj+'.'+t+' : '+err);
                 }
             }
         } catch(err) {
