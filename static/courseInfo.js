@@ -2,6 +2,7 @@
 class courses {
     // Names of each course
     static names = ["ap-chem", "ap-calc", "ap-lang", "apush", "ap-physics"];
+    static names_full = ["AP Chemistry", "AP Calculus", "AP English Language and Literature", "AP United States History (APUSH)", "AP Physics 1"];
     // Number of units in each course
     static units = [1, 1, 1, 1, 1];
     // Info about each course's sections (videos, etc.)
@@ -160,17 +161,28 @@ class courses {
         ]
     };
     // Search sections - searches all sections for a term,
-    // returns array of all sections whose name includes it;
+    // returns array of all sections whose name or subject includes it;
     // each section also includes new key, "course"
     static searchSections(searchterm) {
         var res = [];
+        // Check valid
+        if(searchterm.length < 1) {
+            return [];
+        }
         // Loop through
         for(let i = 0; i < courses.names.length; i++) { // proper syntaxt for names?
             var thisCourseSections = courses.sections[courses.names[i]][0];
             for(let j = 0; j < Object.keys(thisCourseSections).length; j++) {
                 var thisSection = thisCourseSections[Object.keys(thisCourseSections)[j]];
                 // Check if match (case insensitive)
+                var match = false;
                 if(thisSection.name.toLowerCase().includes(searchterm.toLowerCase())) {
+                    match = true;
+                } else if(courses.names_full[i].toLowerCase().includes(searchterm.toLowerCase())) {
+                    match = true;
+                }
+                // Add if match
+                if(match) {
                     thisSection["course"] = courses.names[i];
                     res.push(thisSection);
                 }
