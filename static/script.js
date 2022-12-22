@@ -2,7 +2,7 @@
 var version = "0.0.4";
 console.log('STUDYING WORKS: v'+version);
 
-var existingPages = ["home"];
+var existingPages = ["home", "searchres"];
 
 /*
 TO DO:
@@ -97,7 +97,7 @@ for(let i = 0; i < courses.names.length; i++) {
                         +'Lesson '+(t+1)+': '+thesesections[t].name+'<br>';
                     }
                     divtoload2.append(thissectionlk);
-                    // Create iframe for video at bottom of page?
+                    // Create iframe for video at bottom of page
                     if(thesesections[t].url != undefined) {
                         iframeID = thesesections[t].url.split('?v=')[1]; // iframe ID is end of url; key 'urliframeID' is deprecated
                         var divtoload3 = document.getElementById('pg-'+thisunitlk.dataset.pgtoload+'-vids');
@@ -126,4 +126,34 @@ for(let i = 0; i < courses.names.length; i++) {
 document.getElementById('lk-home').onclick = function() {
     hideAllPages();
     document.getElementById('pg-home').style.display = 'block';
+}
+
+// Search bar
+document.getElementById('search-bar').onchange = function() {
+    hideAllPages();
+    var searchString = document.getElementById('search-bar').value;
+    // Search
+    var searchResults = courses.searchSections(searchString);
+    // Display results
+    var divtoload = document.getElementById('pg-searchres-vids');
+    while(divtoload.firstChild) {
+        divtoload.removeChild(divtoload.firstChild);
+    }
+    for(let i = 0; i < searchResults.length; i++) {
+        // Create iframe for video at bottom of page
+        if(searchResults[i].url != undefined) {
+            iframeID = searchResults[i].url.split('?v=')[1]; // iframe ID is end of url; key 'urliframeID' is deprecated
+            let thisiframe = document.createElement('iframe');
+            thisiframe.width = '300';
+            thisiframe.height = '200';
+            thisiframe.src = 'https://www.youtube.com/embed/'+iframeID;
+            thisiframe.title = 'YouTube video player';
+            frameborder = "0";
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+            thisiframe.allowFullscreen = true; // Is this the correct one?
+            divtoload.append(thisiframe);
+        }
+    }
+    document.getElementById('search-string-disp').innerText = searchString;
+    document.getElementById('pg-searchres').style.display = 'block';
 }

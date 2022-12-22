@@ -16,9 +16,13 @@
 <body>
     <!-- Header -->
     <div id="header" class="headerimg">
+        <!-- Title (top left) -->
         <img style="display:inline; float:left; height:45px;" src="static/images/StudyingWorks_Logo_5.png">
         <h1 class="topTitle" style="display:inline;" id="lk-home" title="home">StudyingWorks</h1>
+        <!-- Search bar (top right) -->
+        <input id="search-bar" type="text" style="float:right; width:230px;" placeholder="Search videos 🔍">
         <br><hr>
+        <!-- Links (bottom) -->
         <h2 class="topLink" title="AP Chemistry" id="lkt-ap-chem">AP Chem
             <div class="dropdown-content" id="lk-ap-chem">
             </div>
@@ -42,6 +46,7 @@
     </div>
 
     <!-- PG: -->
+    <!-- HOME -->
     <div id="pg-home" class="pagediv">
         <h2>Welcome to StudyingWorks!</h2>
         StudyingWorks is a free online tutorial service with video lessons designed to help in all of your difficult classes.
@@ -131,6 +136,13 @@
         <div id="pg-ap-physics-1-links"></div>
         <h2>All Videos</h2>
         <div id="pg-ap-physics-1-vids" class="vidsdiv"></div>
+    </div>
+    <!-- SEARCH RESULTS -->
+    <div id="pg-searchres" style="display:none;" class="pagediv">
+        <h2>Search Results</h2>
+        The following videos contain "<span id="search-string-disp">[your search]</span>"
+        <h2>All Videos</h2>
+        <div id="pg-searchres-vids" class="vidsdiv"></div>
     </div>
 
     <!-- Footer -->
